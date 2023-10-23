@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(102, 102, 102);
 }
 
 /* TRANSITION */
@@ -46,7 +46,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(116, 116, 116);
   text-decoration: none;
   text-decoration-color: rgb(150, 84, 84);
 }
