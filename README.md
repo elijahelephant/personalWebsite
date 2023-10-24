@@ -1,6 +1,6 @@
 ## Elijah Elephant's Portfolio Website
 
-Welcome to my personal portfolio website repository. This website is designed to showcase my skills, projects, and experiences as a web developer and designer.
+Welcome to my personal portfolio website repository. This website is designed to showcase my skills, projects, and experiences as a web developer and designer. It is constantly being updated, so be sure to let me know of any bugs.
 
 ### About
 This website serves as a central hub to explore my work and expertise in web development and design. It offers information about me, a collection of my featured projects, and contact information for potential collaborations.
